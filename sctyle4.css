@@ -1,0 +1,31 @@
+p {
+    font-size: 20px;
+    color: rgb(251, 0, 255);
+    text-align: center;
+    line-height: 30px;
+    font-weight: 300;
+    font-family: Pangolin;
+    letter-spacing: 7px;
+    word-spacing: 19px;
+    text-transform: lowercase;
+}  
+/*Я виконаю інші завдання якомога швидше.*/
+h1 {
+    font-size: 50px;
+    color: rgb(75, 4, 90);
+    text-align: center;
+    line-height: 70px;
+    font-weight: bold;
+    font-family: Pangolin;
+    letter-spacing: 10px;
+    word-spacing: 30px;
+    text-transform: uppercase;
+    
+}
+div {
+    width: 60ch;
+    height: 110ch;
+    text-align: center;
+    border-radius: 10px;
+    background-color: rgb(65, 216, 239);
+}
